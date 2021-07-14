@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhilaniRSA
-- 👀 I’m interested in Back-end programming
+- 👀 I’m interested in back-end programming
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on beginer friendly projects
 - 📫 Reach me on my email: philani.thobisa.ndlovu@gmail.com
