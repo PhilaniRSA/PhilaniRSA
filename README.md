@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhilaniRSA
+- 👋 Hi, I’m Uber
 - 👀 I’m interested in back-end programming
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on beginer friendly projects
