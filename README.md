@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hello world, I'm Usuthu!
+# Hello world, I'm Usuthu!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -24,18 +24,18 @@ You can use the website to generate badges: https://shields.io/
 - I’m looking to collaborate on beginer friendly projects
 - Reach me on my email: philani.thobisa.ndlovu@gmail.com
 
----
+&nbsp;
+&nbsp;
+&nbsp;  
+  
+### “If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do you have to keep moving forward.” - *Martin Luther King Jr*
+
+&nbsp;
+&nbsp;
+&nbsp; 
+
 <!---
-<p align="center">
-<img src="https://github.com/thirdza056/thirdza056/blob/main/assets/line.gif" width=640>
-</p>
-
-
-<p align="center">
-<a href="https://github.com/thirdza056"><img src="https://github-readme-stats.vercel.app/api?username=thirdza056&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000" width=640></a>
-<a href="https://github.com/thirdza056"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirdza056&layout=compact&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&bg_color=00000000" width=640></a>
-</p>
-
+SUPER COLOURFUL LINE
 
 <p align="center">
 <img src="https://github.com/thirdza056/thirdza056/blob/main/assets/line.gif" width=640>
