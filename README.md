@@ -1,11 +1,11 @@
 <!-- Your title -->
-# Hello world, I'm Usuthu!
+# Hello world, I'm Lossless!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
-![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FBareChestedMan)
+![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fl0ssl3ssn3ss)
 [![Hashnode](https://img.shields.io/badge/-Hashnode-blue?style=flat&logo=appveyor&logoColor=white)](u5u7hu.hashnode.dev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thobisa-ndlovu-937046145/)
 
